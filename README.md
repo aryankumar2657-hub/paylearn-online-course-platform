@@ -37,8 +37,7 @@ PayLearn is a modern full-stack online course platform built to provide a secure
 ![Login](screenshots/login.jpg)
 
 ## 🔑 Signup Page
-![Signup](screenshots/signup.jpg)
-
+![Signup](screenshots/singup.jpg)
 ## ▶️ Run Frontend
 
 ```bash
