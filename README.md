@@ -24,6 +24,9 @@ PayLearn is a modern full-stack online course platform built to provide a secure
 
 # 📸 Project Screenshots
 
+## 🤖 AI Recommendation
+![AI](screenshots/AI.jpg)
+
 ## 👨‍💼 Admin Dashboard
 ![Admin Dashboard](screenshots/adminDashboard.jpg)
 
